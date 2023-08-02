@@ -1,0 +1,38 @@
+{
+    "name": "Unity.ShaderGraph.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a2b0e253c44e0427f9c718f9e5c1c7e3",
+        "GUID:4988cf9794f41d64c884876ab6574b89",
+        "GUID:c5842058ea76c1340885a1c621859d6a",
+        "GUID:d5ed6944b704bbb488763acc00e6331f",
+        "GUID:ca3c863f23fb5c74aad84de5e5fbadb1"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.rendering.hybrid",
+            "expression": "0.6.0-preview.5",
+            "define": "HYBRID_RENDERER_0_6_0_OR_NEWER"
+        },
+        {
+            "name": "com.unity.visualeffectgraph",
+            "expression": "10.0.0-preview.15",
+            "define": "VFX_GRAPH_10_0_0_OR_NEWER"
+        },
+        {
+            "name": "com.unity.rendering.hybrid",
+            "expression": "0.14.0-preview.0",
+            "define": "ENABLE_HYBRID_RENDERER_V2"
+        }
+    ],
+    "noEngineReferences": false
+}
