@@ -5,7 +5,7 @@
   "unity": "2022.2",
   "displayName": "Sightful Shader Graph",
   "dependencies": {
-    "com.unity.render-pipelines.core": "file:./com.unity.render-pipelines.core",
+    "com.unity.render-pipelines.core": "git@github.com:multinarity/com.unity.render-pipelines.core.git",
     "com.unity.searcher": "4.9.2"
   },
   "samples": [
